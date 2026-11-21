@@ -1,0 +1,13 @@
+# Non-web project documentation, scripts, and metadata
+WORKLOG.md
+chat.bat
+inventaris_event_organizer.txt
+events_gallery.json
+
+# VCS & OS junk
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+*.log
+node_modules

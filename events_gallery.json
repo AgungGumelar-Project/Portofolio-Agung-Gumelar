@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "title": "Break Out Day 2024",
+    "folder": "Break Out Day 2024",
+    "category": "festival",
+    "badge": "Festival Musik",
+    "year": "2024",
+    "organizer": "CV. Cakrawala Bhakti",
+    "cover": "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0037.jpg",
+    "photo_count": 10,
+    "photos": [
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0025.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0027.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0028.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0037.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0039.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0041.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240810-WA0047.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240815-WA0011.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240815-WA0012.jpg",
+      "./Event Organizer/Break Out Day 2024/IMG-20240815-WA0014.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Napak Jagat Pasundan 2026",
+    "folder": "Napak Jagat Pasundan 2026",
+    "category": "festival",
+    "badge": "Festival Budaya",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Napak Jagat Pasundan 2026/IMG-20261115-WA0184.jpg",
+    "photo_count": 3,
+    "photos": [
+      "./Event Organizer/Napak Jagat Pasundan 2026/IMG-20261115-WA0184.jpg",
+      "./Event Organizer/Napak Jagat Pasundan 2026/IMG-20261116-WA0022.jpg",
+      "./Event Organizer/Napak Jagat Pasundan 2026/IMG-20261116-WA0025.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Shout Of Sound 2026",
+    "folder": "Shout Of Sound 2026",
+    "category": "festival",
+    "badge": "Festival Musik",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Shout Of Sound 2026/IMG-20260724-WA0090.jpg",
+    "photo_count": 6,
+    "photos": [
+      "./Event Organizer/Shout Of Sound 2026/IMG-20260718-WA0014.jpg",
+      "./Event Organizer/Shout Of Sound 2026/IMG-20260718-WA0015.jpg",
+      "./Event Organizer/Shout Of Sound 2026/IMG-20260718-WA0016.jpg",
+      "./Event Organizer/Shout Of Sound 2026/IMG-20260724-WA0090.jpg",
+      "./Event Organizer/Shout Of Sound 2026/IMG-20260724-WA0091.jpg",
+      "./Event Organizer/Shout Of Sound 2026/IMG-20260724-WA0092.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Intimate Show 2025",
+    "folder": "intimate Show 2025",
+    "category": "festival",
+    "badge": "Intimate Concert",
+    "year": "2025",
+    "organizer": "Live Music Series",
+    "cover": "./Event Organizer/intimate Show 2025/IMG-20251220-WA0001.jpg",
+    "photo_count": 6,
+    "photos": [
+      "./Event Organizer/intimate Show 2025/IMG-20251220-WA0001.jpg",
+      "./Event Organizer/intimate Show 2025/IMG-20251220-WA0002.jpg",
+      "./Event Organizer/intimate Show 2025/IMG-20251220-WA0003.jpg",
+      "./Event Organizer/intimate Show 2025/IMG-20251220-WA0005.jpg",
+      "./Event Organizer/intimate Show 2025/IMG-20251220-WA0007.jpg",
+      "./Event Organizer/intimate Show 2025/IMG-20251220-WA0009.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Scorpion Spirit - Live Musik",
+    "folder": "Event Scorpion Spirit- Live Musik",
+    "category": "festival",
+    "badge": "Live Showcase",
+    "year": "2023",
+    "organizer": "Stage Showcase",
+    "cover": "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231022-WA0001.jpg",
+    "photo_count": 6,
+    "photos": [
+      "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231007-WA0001.jpg",
+      "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231007-WA0002.jpg",
+      "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231007-WA0003.jpg",
+      "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231022-WA0001.jpg",
+      "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231022-WA0003.jpg",
+      "./Event Organizer/Event Scorpion Spirit- Live Musik/IMG-20231022-WA0015.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Weekend Vibes 2025",
+    "folder": "Weekend Vibes 2025",
+    "category": "festival",
+    "badge": "Music & Lifestyle",
+    "year": "2025",
+    "organizer": "Festival Musik",
+    "cover": "./Event Organizer/Weekend Vibes 2025/IMG-20251026-WA0037.jpg",
+    "photo_count": 3,
+    "photos": [
+      "./Event Organizer/Weekend Vibes 2025/IMG-20251026-WA0037.jpg",
+      "./Event Organizer/Weekend Vibes 2025/IMG-20251026-WA0038.jpg",
+      "./Event Organizer/Weekend Vibes 2025/IMG-20251026-WA0044.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Coklat Kita Silaturahmi 2026",
+    "folder": "Coklat Kita Silaturahmi 2026",
+    "category": "brand",
+    "badge": "Brand Activation",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Coklat Kita Silaturahmi 2026/IMG-20260910-WA0082.jpg",
+    "photo_count": 4,
+    "photos": [
+      "./Event Organizer/Coklat Kita Silaturahmi 2026/IMG-20260910-WA0082.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2026/IMG-20260910-WA0085.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2026/IMG-20260913-WA0012.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2026/IMG-20260913-WA0014.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Coklat Kita Silaturahmi 2024",
+    "folder": "Coklat Kita Silaturahmi 2024",
+    "category": "brand",
+    "badge": "Brand Activation",
+    "year": "2024",
+    "organizer": "CV. Cakrawala Bhakti",
+    "cover": "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0003.jpg",
+    "photo_count": 15,
+    "photos": [
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240826-WA0017.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240827-WA0022.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240901-WA0007.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240901-WA0020.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0003.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0005.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0007.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0009.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0013.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0018.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0019.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0022.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0031.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0034.jpg",
+      "./Event Organizer/Coklat Kita Silaturahmi 2024/IMG-20240902-WA0051.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Coklat Extra Merdeka 2026",
+    "folder": "Coklat Extra Merdeka 2026",
+    "category": "brand",
+    "badge": "Brand Activation",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Coklat Extra Merdeka 2026/IMG-20260820-WA0013.jpg",
+    "photo_count": 5,
+    "photos": [
+      "./Event Organizer/Coklat Extra Merdeka 2026/IMG-20260820-WA0013.jpg",
+      "./Event Organizer/Coklat Extra Merdeka 2026/IMG-20260820-WA0014.jpg",
+      "./Event Organizer/Coklat Extra Merdeka 2026/IMG-20260820-WA0015.jpg",
+      "./Event Organizer/Coklat Extra Merdeka 2026/IMG-20260820-WA0016.jpg",
+      "./Event Organizer/Coklat Extra Merdeka 2026/IMG-20260820-WA0017.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Bakti Para Dulur Coklat",
+    "folder": "Bakti Para Dulur Coklat",
+    "category": "brand",
+    "badge": "CSR & Activation",
+    "year": "2025",
+    "organizer": "CSR Activation",
+    "cover": "./Event Organizer/Bakti Para Dulur Coklat/IMG_20250802_164710.jpg",
+    "photo_count": 3,
+    "photos": [
+      "./Event Organizer/Bakti Para Dulur Coklat/IMG_20250802_164710.jpg",
+      "./Event Organizer/Bakti Para Dulur Coklat/IMG_20250802_164712.jpg",
+      "./Event Organizer/Bakti Para Dulur Coklat/IMG_20250802_164716.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Mabes Heppiii 2026",
+    "folder": "Mabes Heppiii 2026",
+    "category": "brand",
+    "badge": "Community Brand",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Mabes Heppiii 2026/IMG-20260523-WA0082.jpg",
+    "photo_count": 4,
+    "photos": [
+      "./Event Organizer/Mabes Heppiii 2026/IMG-20260523-WA0082.jpg",
+      "./Event Organizer/Mabes Heppiii 2026/IMG-20260523-WA0094.jpg",
+      "./Event Organizer/Mabes Heppiii 2026/IMG-20260523-WA0095.jpg",
+      "./Event Organizer/Mabes Heppiii 2026/IMG-20260523-WA0099.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ririungan Coklat Kita 2024",
+    "folder": "Ririungan Coklat Kita 2024",
+    "category": "brand",
+    "badge": "Community Gathering",
+    "year": "2024",
+    "organizer": "CV. Cakrawala Bhakti",
+    "cover": "./Event Organizer/Ririungan Coklat Kita 2024/IMG-20240716-WA0085.jpg",
+    "photo_count": 4,
+    "photos": [
+      "./Event Organizer/Ririungan Coklat Kita 2024/IMG-20240716-WA0085.jpg",
+      "./Event Organizer/Ririungan Coklat Kita 2024/IMG-20240716-WA0087.jpg",
+      "./Event Organizer/Ririungan Coklat Kita 2024/IMG-20240716-WA0089.jpg",
+      "./Event Organizer/Ririungan Coklat Kita 2024/IMG-20240716-WA0091.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Super MLBB Esports 2026",
+    "folder": "Super MLBB Competition 2026",
+    "category": "esports",
+    "badge": "Turnamen Esports",
+    "year": "2026",
+    "organizer": "ESI Kuningan & ECP",
+    "cover": "./Event Organizer/Super MLBB Competition 2026/IMG-20260704-WA0084.jpg",
+    "photo_count": 8,
+    "photos": [
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260620-WA0184.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260620-WA0185.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260620-WA0186.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260620-WA0193.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260704-WA0009.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260704-WA0010.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260704-WA0084.jpg",
+      "./Event Organizer/Super MLBB Competition 2026/IMG-20260705-WA0163.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Euro Futsal Super Soccer 2024",
+    "folder": "Euro Futsal Super Soccer 2024 Kuningan",
+    "category": "esports",
+    "badge": "Turnamen Olahraga",
+    "year": "2024",
+    "organizer": "CV. Cakrawala Bhakti",
+    "cover": "./Event Organizer/Euro Futsal Super Soccer 2024 Kuningan/IMG-20240629-WA0021.jpg",
+    "photo_count": 3,
+    "photos": [
+      "./Event Organizer/Euro Futsal Super Soccer 2024 Kuningan/IMG-20240629-WA0021.jpg",
+      "./Event Organizer/Euro Futsal Super Soccer 2024 Kuningan/IMG-20240629-WA0024.jpg",
+      "./Event Organizer/Euro Futsal Super Soccer 2024 Kuningan/IMG-20240629-WA0031.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "76 Happy Skate Day Cirebon",
+    "folder": "76 Happy Skate Day Cirebon 2024",
+    "category": "community",
+    "badge": "Komunitas Urban",
+    "year": "2024",
+    "organizer": "CV. Cakrawala Bhakti",
+    "cover": "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0015.jpg",
+    "photo_count": 12,
+    "photos": [
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0013.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0015.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0017.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0019.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0021.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0023.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0025.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0027.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0029.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0031.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0034.jpg",
+      "./Event Organizer/76 Happy Skate Day Cirebon 2024/IMG-20240623-WA0035.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Super Moment Citizen Across 2026",
+    "folder": "Super Moment Citizen Across 2026",
+    "category": "community",
+    "badge": "Komunitas Otomotif",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0099.jpg",
+    "photo_count": 7,
+    "photos": [
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0099.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0100.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0101.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0104.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0111.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0124.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2026/IMG-20260906-WA0136.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Super Moment Citizen Across 2025",
+    "folder": "Super Moment Citizen Across 2025",
+    "category": "community",
+    "badge": "Komunitas Kreatif",
+    "year": "2025",
+    "organizer": "Community Gathering",
+    "cover": "./Event Organizer/Super Moment Citizen Across 2025/IMG-20251207-WA0001.jpg",
+    "photo_count": 4,
+    "photos": [
+      "./Event Organizer/Super Moment Citizen Across 2025/IMG-20251207-WA0001.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2025/IMG-20251207-WA0005.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2025/IMG-20251207-WA0006.jpg",
+      "./Event Organizer/Super Moment Citizen Across 2025/IMG-20251207-WA0007.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Kecil Tapi Party 2026",
+    "folder": "Kecil Tapi Party 2026",
+    "category": "community",
+    "badge": "Subkultur Party",
+    "year": "2026",
+    "organizer": "CV. Eternal Core Project",
+    "cover": "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0055 - Copy.jpg",
+    "photo_count": 6,
+    "photos": [
+      "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0055 - Copy.jpg",
+      "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0056 - Copy.jpg",
+      "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0057 - Copy.jpg",
+      "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0058 - Copy.jpg",
+      "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0059 - Copy.jpg",
+      "./Event Organizer/Kecil Tapi Party 2026/IMG-20260507-WA0060 - Copy.jpg"
+    ]
+  }
+]
